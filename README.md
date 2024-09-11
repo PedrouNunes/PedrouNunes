@@ -28,7 +28,3 @@
 </div>
 
 <br>
-
-<div> 
-  ![Snake animation](https://github.com/PedrouNunes/PedrouNunes/blob/output/github-contribution-grid-snake.svg)
-</div>
