@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Pedro Nunes!
 
-- 🔭 Atualmente estou cursando Ciência da computação no IFSC-LAGES e estudando na Academia do Programador;
+- 🔭 Atualmente estou cursando Ciência da computação no IFSC-LAGES e realizando mestrado em Engenharia Informática e Internet das Coisas;
 - 😀 As linguagens em que mais possuo conhecimento são Java e C#;
 - ⚡ Fun fact: Gosto muito de esportes.
 
