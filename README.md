@@ -1,8 +1,7 @@
-### Olá, Eu sou o Pedro Nunes!
-
-- 🔭 Atualmente estou cursando Ciência da computação no IFSC-LAGES e realizando mestrado em Engenharia Informática e Internet das Coisas;
-- 😀 As linguagens em que mais possuo conhecimento são Java e C#;
-- ⚡ Fun fact: Gosto muito de esportes.
+###Hello, I am Pedro Nunes!
+🔭 I am currently studying Computer Science at IFSC-LAGES and pursuing a master’s degree in Computer Engineering and Internet of Things at IPBeja;
+😀 The programming languages I am most proficient in are Java and C#;
+⚡ Fun fact: I really enjoy sports.
 
 <div>
   <a href="https://github.com/PedrouNunes">
