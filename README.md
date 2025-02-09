@@ -2,8 +2,6 @@
 
 🔭 I am currently studying Computer Science at IFSC-LAGES and pursuing a master’s degree in Computer Engineering and Internet of Things at IPBeja;
 
-😀 The programming languages I am most proficient in are Java and C#;
-
 ⚡ Fun fact: I really enjoy sports.
 
 <div>
