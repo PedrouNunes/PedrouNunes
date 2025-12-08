@@ -1,6 +1,6 @@
 ###Hello, I am Pedro Nunes!
 
-🔭 I am currently studying Computer Science at IFSC-LAGES and pursuing a master’s degree in Computer Engineering and Internet of Things at IPBeja;
+🔭 I am currently pursuing a master’s degree in Computer Engineering and Internet of Things at IPBeja;
 
 ⚡ Fun fact: I really enjoy sports.
 
