@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pedro%20Nunes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SAP%20Consultant%20%7C%20MSc%20Computer%20Engineering%20%26%20IoT&descAlignY=55&descSize=16" width="100%"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=SAP+FSM+%26+Integration+Consultant;Computer+Engineering+%40+IPBeja;Building+things+at+the+edge+of+IT+%26+OT)](https://git.io/typing-svg)
 
 </div>
